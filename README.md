@@ -13,6 +13,10 @@ To assess the models, the root mean squared error was used to measure within how
 
 All feature importance analysis following model assessment can be accessed in [Feature Importance](https://github.com/arianaschindler/data1030_final/blob/main/src/feature_importance.ipynb).
 
+A note on the **results** folder:
+<br/>
+I attempted to save the best model and even tried to compress it but the size exceeded GitHub's file capacity. I have included a small notebook which shows saving and reloading the best model.
+
 ## Packages and Versions:
 
 Python version is 3.10.5
